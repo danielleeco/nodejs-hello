@@ -11,4 +11,3 @@ Next > `npm install`
 ```bash
 node hello.js
 ```
-## 0101
